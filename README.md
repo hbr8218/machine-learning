@@ -26,6 +26,6 @@ To figure out types(groups) of students studying in that semester on the basis o
    
   
  ANY QUERY<br />
- <i>feel free to ask me</i>
-email id: hbr8218@gmail.com <br>
+ <i>feel free to ask me</i><br />
+email id: hbr8218@gmail.com <br />
 THANK YOU
